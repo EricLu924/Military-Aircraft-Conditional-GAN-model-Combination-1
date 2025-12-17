@@ -152,19 +152,6 @@ These checkpoints can be used for:
 * Image generation only (inference)
 * Data augmentation pipelines
 
----
-
-## ▶️ How to Run
-
-```bash
-python Conditional_GAN_model_epoch350_lr0.00011.py
-```
-
-Before running, ensure:
-
-* Dataset path is correctly configured in the script
-* Required Python packages are installed
-* Sufficient GPU memory is available (recommended)
 
 ---
 
